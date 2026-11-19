@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Cinematography-Video-Prompting/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,105 +72,105 @@ The following table details leading hosted generative filmmaking suites, sorted 
 
 ## 💻 Open-Source GitHub Projects
 
-The following list contains top open-weight video foundation models, camera-trajectory controllers, prompt engineering skills, and cinematic conditioning toolkits. **Sorted in descending order by GitHub Star counts.**
+The following list contains top open-weight video foundation models, camera-trajectory controllers, prompt engineering skills, and cinematic conditioning toolkits. **Sorted in descending order by GitHub Stars_Counts.**
 
-1. **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers) 🌟  
+1. **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers) 🌟  
    *AI Cinema Restoration & 4K Super-Resolution Engine*  
    General-purpose practical image and video upscaling algorithm tailored for restoring low-res generative diffusion outputs into clean 4K film deliverables.
 
-2. **[ControlNet](https://github.com/lllyasviel/ControlNet)** [![GitHub stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social&color=white)](https://github.com/lllyasviel/ControlNet/stargazers) 🌟  
+2. **[ControlNet](https://github.com/lllyasviel/ControlNet)** [![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social&color=white)](https://github.com/lllyasviel/ControlNet/stargazers) 🌟  
    *Structural Spatial Conditioning for Diffusion Models*  
    The foundational framework for adding spatial conditioning controls (depth maps, surface normals, Canny edges, and pose rigs) to lock in exact photographic composition and framing.
 
-3. **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers) 🌟  
+3. **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub_Stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers) 🌟  
    *Democratized Spatial-Temporal DiT Architecture*  
    Open-source platform (`Apache-2.0`) providing complete training and inference workflows for large-scale spatial-temporal video diffusion transformers supporting multi-aspect-ratio cinematic rendering.
 
-4. **[Stable Video Diffusion](https://github.com/Stability-AI/generative-models)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers) 🌟  
+4. **[Stable Video Diffusion](https://github.com/Stability-AI/generative-models)** [![GitHub_Stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers) 🌟  
    *Foundational Image-to-Video Latent Diffusion Family*  
    State-of-the-art open-weight video model family (`SVD` / `SVD-XT`) turning still storyboard frames into smooth camera motion shots with motion-bucket conditioning.
 
-5. **[LivePortrait](https://github.com/KlingAIResearch/LivePortrait)** [![GitHub stars](https://img.shields.io/github/stars/KlingAIResearch/LivePortrait?style=social&color=white)](https://github.com/KlingAIResearch/LivePortrait/stargazers) 🌟  
+5. **[LivePortrait](https://github.com/KlingAIResearch/LivePortrait)** [![GitHub_Stars](https://img.shields.io/github/stars/KlingAIResearch/LivePortrait?style=social&color=white)](https://github.com/KlingAIResearch/LivePortrait/stargazers) 🌟  
    *Controllable Portrait Acting & Eye-Gaze Directing Engine*  
    Fast, lightweight facial reenactment toolkit (`MIT`) allowing directors to steer subtle micro-expressions, head poses, and dramatic eye lines from video references or sliders.
 
-6. **[Wan2.1 / Wan2.2](https://github.com/Wan-Video/Wan2.1)** [![GitHub stars](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&color=white)](https://github.com/Wan-Video/Wan2.1/stargazers) 🌟  
+6. **[Wan2.1 / Wan2.2](https://github.com/Wan-Video/Wan2.1)** [![GitHub_Stars](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&color=white)](https://github.com/Wan-Video/Wan2.1/stargazers) 🌟  
    *Flagship Open Video Foundation Suite from Alibaba*  
    Premier open-source (`Apache-2.0`) video foundation models offering cinema-grade physics, complex camera trajectories, text-to-video, and image-to-video synthesis runnable on consumer hardware.
 
-7. **[FramePack](https://github.com/lllyasviel/FramePack)** [![GitHub stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social&color=white)](https://github.com/lllyasviel/FramePack/stargazers) 🌟  
+7. **[FramePack](https://github.com/lllyasviel/FramePack)** [![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social&color=white)](https://github.com/lllyasviel/FramePack/stargazers) 🌟  
    *VRAM-Efficient Autoregressive Video Diffusion Framework*  
    Ultra-optimized video generation pipeline (`Apache-2.0`) enabling long-horizon 30 fps video generation and complex camera pans on 6GB–12GB consumer GPUs.
 
-8. **[CogVideoX](https://github.com/zai-org/CogVideo)** [![GitHub stars](https://img.shields.io/github/stars/zai-org/CogVideo?style=social&color=white)](https://github.com/zai-org/CogVideo/stargazers) 🌟  
+8. **[CogVideoX](https://github.com/zai-org/CogVideo)** [![GitHub_Stars](https://img.shields.io/github/stars/zai-org/CogVideo?style=social&color=white)](https://github.com/zai-org/CogVideo/stargazers) 🌟  
    *3D Causal VAE Video Diffusion Transformers*  
    Open-source (`Apache-2.0`) video foundation model family from Tsinghua/Zhipu AI utilizing 3D causal VAEs and expert DiT blocks for coherent cinematic motion across extended prompts.
 
-9. **[HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanVideo/stargazers) 🌟  
+9. **[HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanVideo/stargazers) 🌟  
    *Tencent’s Cinema-Scale Open Video Diffusion Transformer*  
    High-capacity open-weight video model praised for natural lighting rendering, organic human dynamics, film-grade color grading, and native ComfyUI integration.
 
-10. **[AnimateDiff & MotionLoRA](https://github.com/guoyww/AnimateDiff)** [![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers) 🌟  
+10. **[AnimateDiff & MotionLoRA](https://github.com/guoyww/AnimateDiff)** [![GitHub_Stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers) 🌟  
     *Temporal Motion Modules with Cinematic Camera LoRAs*  
     Industry-standard motion framework supporting specialized `MotionLoRA` models for repeatable camera moves including Pan Left/Right, Tilt Up/Down, Zoom In/Out, and Dutch Roll.
 
-11. **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** [![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social&color=white)](https://github.com/PKU-YuanGroup/Open-Sora-Plan/stargazers) 🌟  
+11. **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** [![GitHub_Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social&color=white)](https://github.com/PKU-YuanGroup/Open-Sora-Plan/stargazers) 🌟  
     *Reproducible Large Video Diffusion Architecture*  
     Open-source project from Peking University and Web-AI focusing on training video diffusion transformer models for long-sequence film shots.
 
-12. **[LTX-Video](https://github.com/Lightricks/LTX-Video)** [![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social&color=white)](https://github.com/Lightricks/LTX-Video/stargazers) 🌟  
+12. **[LTX-Video](https://github.com/Lightricks/LTX-Video)** [![GitHub_Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social&color=white)](https://github.com/Lightricks/LTX-Video/stargazers) 🌟  
     *Real-Time DiT Video Generation Architecture*  
     Next-generation video foundation model from Lightricks synthesizing 30 fps cinema clips faster than real time, conditioned on keyframes and detailed natural language descriptions.
 
-13. **[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)** [![GitHub stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social&color=white)](https://github.com/DepthAnything/Depth-Anything-V2/stargazers) 🌟  
+13. **[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)** [![GitHub_Stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social&color=white)](https://github.com/DepthAnything/Depth-Anything-V2/stargazers) 🌟  
     *Monocular Depth Estimation for Cinematic Virtual Cameras*  
     Highly robust metric and relative depth estimation model used to reconstruct 3D scene geometry, camera depth passes, and synthetic aperture rack focus effects.
 
-14. **[SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social&color=white)](https://github.com/SkyworkAI/SkyReels-V2/stargazers) 🌟  
+14. **[SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** [![GitHub_Stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social&color=white)](https://github.com/SkyworkAI/SkyReels-V2/stargazers) 🌟  
     *Infinite-Length Film-Grade Generative Video Engine*  
     Open-source generative video model combining diffusion forcing and reinforcement learning for multi-shot cinematic narrative directing.
 
-15. **[StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** [![GitHub stars](https://img.shields.io/github/stars/HVision-NKU/StoryDiffusion?style=social&color=white)](https://github.com/HVision-NKU/StoryDiffusion/stargazers) 🌟  
+15. **[StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** [![GitHub_Stars](https://img.shields.io/github/stars/HVision-NKU/StoryDiffusion?style=social&color=white)](https://github.com/HVision-NKU/StoryDiffusion/stargazers) 🌟  
     *Consistent Character Storyboarding & Multi-Shot Directing*  
     Pioneering framework for training-free consistent character generation and comic/storyboard video compilation across continuous narrative beats.
 
-16. **[ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE)** [![GitHub stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers) 🌟  
+16. **[ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE)** [![GitHub_Stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers) 🌟  
     *Real-Time Intermediate Flow Video Frame Interpolation*  
     Deep learning framework for transforming 12/24 fps AI-generated raw shots into buttery smooth 60 fps slow-motion cinema footage without motion blur artifacts.
 
-17. **[Mochi 1](https://github.com/genmoai/mochi)** [![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social&color=white)](https://github.com/genmoai/mochi/stargazers) 🌟  
+17. **[Mochi 1](https://github.com/genmoai/mochi)** [![GitHub_Stars](https://img.shields.io/github/stars/genmoai/mochi?style=social&color=white)](https://github.com/genmoai/mochi/stargazers) 🌟  
     *Asymmetric Diffusion Transformer (AsymmDiT) Video Model*  
     Open-source (`Apache-2.0`) video foundation model delivering high-fidelity human motion, natural physical dynamics, and precise cinematic prompt adherence.
 
-18. **[ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)** [![GitHub stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-AnimateDiff-Evolved?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved/stargazers) 🌟  
+18. **[ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)** [![GitHub_Stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-AnimateDiff-Evolved?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved/stargazers) 🌟  
     *Advanced ComfyUI Workflow Toolkit for Motion & Cameras*  
     Node ecosystem enabling sliding context windows, prompt traveling across shot beats, camera LoRA blending, and ControlNet consistency.
 
-19. **[Google FILM](https://github.com/google-research/frame-interpolation)** [![GitHub stars](https://img.shields.io/github/stars/google-research/frame-interpolation?style=social&color=white)](https://github.com/google-research/frame-interpolation/stargazers) 🌟  
+19. **[Google FILM](https://github.com/google-research/frame-interpolation)** [![GitHub_Stars](https://img.shields.io/github/stars/google-research/frame-interpolation?style=social&color=white)](https://github.com/google-research/frame-interpolation/stargazers) 🌟  
     *Frame Interpolation for Large Motion in Cinema Sequences*  
     Google Research framework specialized in synthesizing smooth intermediate frames even during aggressive camera sweeps, pans, and large displacements.
 
-20. **[ReCamMaster](https://github.com/KlingAIResearch/ReCamMaster)** [![GitHub stars](https://img.shields.io/github/stars/KlingAIResearch/ReCamMaster?style=social&color=white)](https://github.com/KlingAIResearch/ReCamMaster/stargazers) 🌟  
+20. **[ReCamMaster](https://github.com/KlingAIResearch/ReCamMaster)** [![GitHub_Stars](https://img.shields.io/github/stars/KlingAIResearch/ReCamMaster?style=social&color=white)](https://github.com/KlingAIResearch/ReCamMaster/stargazers) 🌟  
     *Camera-Controlled Generative Rendering from Single Video*  
     ICCV 2025 Best Paper Finalist from Kling AI research enabling novel trajectory re-filming and 6-DoF camera rendering from existing monocular video footage.
 
-21. **[ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)** [![GitHub stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-VideoHelperSuite?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/stargazers) 🌟  
+21. **[ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)** [![GitHub_Stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-VideoHelperSuite?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/stargazers) 🌟  
     *ComfyUI Video Batching, Previews & ProRes/MP4 Export*  
     Essential production node suite for managing video latents, multi-track audio synchronization, shot previews, and lossless color-accurate encoding.
 
-22. **[MotionCtrl](https://github.com/TencentARC/MotionCtrl)** [![GitHub stars](https://img.shields.io/github/stars/TencentARC/MotionCtrl?style=social&color=white)](https://github.com/TencentARC/MotionCtrl/stargazers) 🌟  
+22. **[MotionCtrl](https://github.com/TencentARC/MotionCtrl)** [![GitHub_Stars](https://img.shields.io/github/stars/TencentARC/MotionCtrl?style=social&color=white)](https://github.com/TencentARC/MotionCtrl/stargazers) 🌟  
     *Unified Independent Camera & Object Motion Controller*  
     SIGGRAPH 2024 framework allowing independent conditioning of virtual camera trajectories (RT matrices) and actor paths in generative video diffusion.
 
-23. **[GEN3C](https://github.com/nv-tlabs/GEN3C)** [![GitHub stars](https://img.shields.io/github/stars/nv-tlabs/GEN3C?style=social&color=white)](https://github.com/nv-tlabs/GEN3C/stargazers) 🌟  
+23. **[GEN3C](https://github.com/nv-tlabs/GEN3C)** [![GitHub_Stars](https://img.shields.io/github/stars/nv-tlabs/GEN3C?style=social&color=white)](https://github.com/nv-tlabs/GEN3C/stargazers) 🌟  
     *3D-Informed World-Consistent Video Generation with Camera Control*  
     NVIDIA Research CVPR 2025 Highlight enforcing epipolar geometry and 3D point cloud consistency during aggressive virtual camera sweeps.
 
-24. **[Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill)** [![GitHub stars](https://img.shields.io/github/stars/Moh4696/cinematic-skill?style=social&color=white)](https://github.com/Moh4696/cinematic-skill/stargazers) 🌟  
+24. **[Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill)** [![GitHub_Stars](https://img.shields.io/github/stars/Moh4696/cinematic-skill?style=social&color=white)](https://github.com/Moh4696/cinematic-skill/stargazers) 🌟  
     *AI Cinematography & Video Prompting Skill for Coding Agents*  
     Structured cinematography prompt engineering skill for AI agents (Claude Code, Cursor, Antigravity) that compiles natural language briefs into camera trajectories, lens profiles, lighting specs, and shot lists.
 
-25. **[CameraCtrl](https://github.com/hehao13/CameraCtrl)** [![GitHub stars](https://img.shields.io/github/stars/hehao13/CameraCtrl?style=social&color=white)](https://github.com/hehao13/CameraCtrl/stargazers) 🌟  
+25. **[CameraCtrl](https://github.com/hehao13/CameraCtrl)** [![GitHub_Stars](https://img.shields.io/github/stars/hehao13/CameraCtrl?style=social&color=white)](https://github.com/hehao13/CameraCtrl/stargazers) 🌟  
     *Plücker Coordinate Camera Trajectory Pose Injection*  
     Modular plug-and-play adapter utilizing Plücker ray embeddings to enforce exact 6-DoF camera trajectories across text-to-video foundation models.
 
@@ -213,11 +213,11 @@ Thank you to all contributors and filmmakers pushing the boundaries of synthetic
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/new-cinematography-tool`.
 3. Add or update entries following the established table / list format.
-4. Ensure all SaaS products feature specific pricing and free tier columns, and open-source projects include star count badges.
+4. Ensure all SaaS products feature specific pricing and free tier columns, and open-source projects include Stars_Count badges.
 5. Submit a Pull Request with a clear description of the addition!
 
 ---
 
 ## 📜 Disclaimer
 
-*All trademarks, logos, and brand names are the property of their respective owners. Pricing tiers, token allocations, and feature sets are subject to change by their respective providers. Star counts are updated periodically.*
+*All trademarks, logos, and brand names are the property of their respective owners. Pricing tiers, token allocations, and feature sets are subject to change by their respective providers. Stars_Counts are updated periodically.*
